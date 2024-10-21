@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Restaurant-Shopping-Cart
 =======
 # Frontend Mentor - Product list with cart
